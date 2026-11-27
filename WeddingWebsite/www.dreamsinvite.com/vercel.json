@@ -1,0 +1,12 @@
+{
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/dev-weds-ananya098f.html?test="
+    },
+    {
+      "source": "/dev-weds-ananya",
+      "destination": "/dev-weds-ananya098f.html?test="
+    }
+  ]
+}

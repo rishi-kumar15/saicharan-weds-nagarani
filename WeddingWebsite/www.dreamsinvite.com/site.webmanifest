@@ -1,0 +1,46 @@
+{
+  "name": "Dreams Invite – Premium Digital Wedding Invitations",
+  "short_name": "Dreams Invite",
+  "description": "India's most premium digital wedding invitation platform. Cinematic, animated, and interactive invitations with instant RSVPs.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fdf8f3",
+  "theme_color": "#c9953a",
+  "orientation": "portrait",
+  "scope": "/",
+  "lang": "en-IN",
+  "icons": [
+    {
+      "src": "/pwa-72x72.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "/pwa-96x96.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "/pwa-128x128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/pwa-144x144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
